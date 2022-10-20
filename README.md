@@ -16,5 +16,10 @@ NLP can help people with many tasks. Some examples are given below.
 <p/>Recruiting Assistant: Both the search and selection phases of new employees and identifying the skills of potential hires.</p>
 <p/>Litigation Tasks: To automate routine litigation tasks and help courts save time.</p>
 
+<p/>Google Translate: Google Translate is one of the famous applications of Natural Language Processing. It helps convert written or spoken sentences into any language. Also, we can find the correct pronunciation and meaning of a word by using Google Translate. It uses advanced techniques of Natural Language Processing to achieve success in translating sentences into various languages.</p>
+
+
+<p/>Chatbots: To provide a better customer support service, companies have started using chatbots for 24/7 service. Chatbots helps resolve the basic queries of customers. If a chatbot is not able to resolve any query, then it forwards it to the support team, while still engaging the customer. It helps make customers feel that the customer support team is quickly attending them. With the help of chatbots, companies have become capable of building cordial relations with customers. It is only possible with the help of Natural Language Processing.</p>
+
 
 
