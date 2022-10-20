@@ -15,7 +15,7 @@ NLP can help people with many tasks. Some examples are given below.
 <p/>Trading Algorithms: Tracking news, reports, comments about financing to sell or buy the stocks automatically.</p>
 <p/>Recruiting Assistant: Both the search and selection phases of new employees and identifying the skills of potential hires.</p>
 <p/>Litigation Tasks: To automate routine litigation tasks and help courts save time.</p>
-
+<h4/>Two real-life applications of Natural Language Processing are as follows:</h4>
 <p/>Google Translate: Google Translate is one of the famous applications of Natural Language Processing. It helps convert written or spoken sentences into any language. Also, we can find the correct pronunciation and meaning of a word by using Google Translate. It uses advanced techniques of Natural Language Processing to achieve success in translating sentences into various languages.</p>
 
 
